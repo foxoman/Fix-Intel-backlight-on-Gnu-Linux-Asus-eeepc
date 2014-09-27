@@ -14,6 +14,6 @@ Instructions to fix hotkeys not working
 
 
 
-**nOTE: If xorg.conf.d doesn't exist, create it :)**
+**nOTE: If xorg.conf.d folder doesn't exist, create it :)**
 
 sudo mkdir /etc/X11/xorg.conf.d 
